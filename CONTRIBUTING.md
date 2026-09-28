@@ -25,9 +25,10 @@ House rules:
 - Obsidian's CSS variables first, plain selectors after; no `!important`, no `:has()`.
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
-- Meadow cream and black outlines at 20px; drone violet only for the note callout,
-  fills and the open file. The only embedded font is Cuprum Bold (the title and the two
-  largest headings, in capitals): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
+- Meadow cream and black outlines at 20px; drone violet only for the note callout, fills
+  and the open file. The only embedded font is Kite Sans Bold, a renamed subset of Cuprum
+  Bold (the title and the two largest headings, in capitals): `fonts/*.woff2` are written
+  into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

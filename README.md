@@ -45,10 +45,11 @@ Settings → Appearance → Themes.
 
 ## Font
 
-Cuprum Bold (© 2006–2012 Jovanny Lemonad, Reserved Font Name "Cuprum") is embedded in
-`theme.css` as base64 WOFF2 under the SIL Open Font License 1.1 — see
-[`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin and Cyrillic, for the title, the two
-largest headings and pull quotes only.
+Kite Sans is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Cuprum Bold
+(© 2006–2012 Jovanny Lemonad), renamed because a modified copy may not use the original's
+Reserved Font Name. One weight, for the title, the two largest headings and pull quotes
+only.
 
 ## License
 
@@ -58,6 +59,6 @@ MIT — see [LICENSE](LICENSE).
 
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Пастбище» — открытый луг в
 утреннем свете, и тёмный «Ангар» — тот же парк дронов ночью. Кремовая бумага, чёрные контуры
-со скруглением 20px, высокие узкие заголовки капителью (Cuprum) и один фиолетовый для того,
-что вы делаете. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
-Borozdov Kite → Установить и применить.
+со скруглением 20px, высокие узкие заголовки капителью (Kite Sans) и один фиолетовый для
+того, что вы делаете. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить
+→ Borozdov Kite → Установить и применить.

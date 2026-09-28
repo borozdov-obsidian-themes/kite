@@ -1,3 +1,6 @@
+Kite Sans is a modified version of Cuprum Bold: a Latin and Cyrillic subset, renamed because
+the original carries a Reserved Font Name.
+
 Cuprum, Copyright (c) 2006-2012 Jovanny Lemonad (jovanny.ru), with Reserved Font Name "Cuprum".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

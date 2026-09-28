@@ -159,7 +159,7 @@ the plain note is the one violet feature block.</p></div>
 {callout("success", "check", "Delivered", "Green for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, red for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Fly low, land soft, come back empty.</p></blockquote></div>
-{table(["Face", "Role"], ["Cuprum 700", "Title and the two largest headings, in capitals"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
+{table(["Face", "Role"], ["Kite Sans 700", "Title and the two largest headings, in capitals"], ["Sans 400", "Body text"], ["Sans 600", "Labels and bold"])}
 """
 
 NOTE_RU = f"""
